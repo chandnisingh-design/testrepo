@@ -7,7 +7,7 @@ class HelloWebComponent extends HTMLElement {
       const mountPoint = document.createElement('div');
       this.attachShadow({ mode: 'open' }).appendChild(mountPoint);
   
-      ReactDOM.render(<Hii name={name} />, mountPoint);
+      ReactDOM.render(<Hello name={name} />, mountPoint);
     }
   }
   
