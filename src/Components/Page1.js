@@ -2,7 +2,7 @@ import React from "react"
 import * as ReactDOM from "react-dom"
 class Hello extends React.Component {
     render() {
-      return <div>Hello, {this.props.name}!</div>;
+      return <div>Hello C, {this.props.name}!</div>;
     }
   }
   export default Hello;
@@ -10,7 +10,7 @@ class Hello extends React.Component {
 
 // function Hello(props) {
 //     return ( 
-//         <div>Hellocvbv, {this.props.name}!</div>
+//         <div>Hello, {this.props.name}!</div>
 //     );
 // }
   
