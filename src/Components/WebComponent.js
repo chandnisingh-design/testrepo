@@ -7,7 +7,6 @@ class MyWebComponent extends HTMLElement {
         const name = this.getAttribute('name');
         const element = <Greet name={name} />;
         ReactDOM.render(element, this);
-    
     }
   }
 

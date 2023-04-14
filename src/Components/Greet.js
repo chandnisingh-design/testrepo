@@ -1,5 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
+import * as ReactDOM from "react-dom/client"
 
 // function Greet(){
 //     return <h1>Hello Shivangi </h1>
