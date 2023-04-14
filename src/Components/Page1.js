@@ -10,7 +10,7 @@ class Hello extends React.Component {
 
 // function Hello(props) {
 //     return ( 
-//         <div>Hello, {this.props.name}!</div>
+//         <div>Hellocvbv, {this.props.name}!</div>
 //     );
 // }
   
