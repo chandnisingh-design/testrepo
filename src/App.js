@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
      <web-greeting name = "Welcome"></web-greeting>
-     <hello-webcomponent name="Chandni Si"></hello-webcomponent>
+     <hello-webcomponent name="Chandni Singh"></hello-webcomponent>
     </div>
   );
 }
